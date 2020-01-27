@@ -1,0 +1,1 @@
+after creating the first file in the repository i have cloned it into the git
